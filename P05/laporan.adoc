@@ -1,0 +1,47 @@
+= Praktikum 5 - PBO
+:doctype: article
+:source-highlighter: rouge
+:author: Sri Aspari -- G.131.20.0045
+
+[.text-center]
+*Sri Aspari -- G.131.20.0045*
+
+== Screenshot
+
+image::images/img.png[title=Kedaraan.java]
+image::images/img_1.png[title=Pesawat.java]
+image::images/img_2.png[title=Mobil.java]
+image::images/img_3.png[title=Main.java]
+image::images/img_4.png[title=Main.java]
+
+<<<
+
+== Source Code
+
+[,java]
+----
+// Kendaraan.java
+
+include::src/Kendaraan.java[]
+----
+
+[source,java]
+----
+// Pesawat.java
+
+include::src/Pesawat.java[]
+----
+
+[source,java]
+----
+// Mobil.java
+
+include::src/Mobil.java[]
+----
+
+[source,java]
+----
+// Main.java
+
+include::src/Main.java[]
+----

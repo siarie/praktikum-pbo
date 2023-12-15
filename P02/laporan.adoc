@@ -1,0 +1,37 @@
+= Praktikum 2 - PBO
+:doctype: book
+:source-highlighter: rouge
+:author: Sri Aspari -- G.131.20.0045
+
+== Screenshot
+
+image::images/01.png["Laptop.java"]
+
+image::images/02.png["BarangMasuk.java"]
+
+
+image::images/03.png["BarangKeluar.java"]
+
+== Source Code
+
+[,java]
+----
+// Barang.java
+
+include::src/Barang.java[]
+----
+
+[source,java]
+----
+// BarangMasuk.java
+
+include::src/BarangMasuk.java[]
+----
+
+
+[source,java]
+----
+// BarangKeluar.java
+
+include::src/BarangKeluar.java[]
+----

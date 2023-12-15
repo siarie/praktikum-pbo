@@ -1,0 +1,31 @@
+= Praktikum 6 - PBO
+:doctype: article
+:source-highlighter: rouge
+:author: Sri Aspari -- G.131.20.0045
+
+[.text-center]
+*Sri Aspari -- G.131.20.0045*
+
+== Screenshot
+
+image::images/img.png[title=Mahasiswa.java]
+image::images/img_1.png[title=Main.java]
+image::images/img_2.png[title=Result]
+
+<<<
+
+== Source Code
+
+[,java]
+----
+// Kendaraan.java
+
+include::src/Mahasiswa.java[]
+----
+
+[source,java]
+----
+// Main.java
+
+include::src/Main.java[]
+----

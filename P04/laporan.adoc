@@ -1,0 +1,55 @@
+= Praktikum 4 - PBO
+:doctype: article
+:source-highlighter: rouge
+:author: Sri Aspari -- G.131.20.0045
+
+[.text-center]
+*Sri Aspari -- G.131.20.0045*
+
+== Screenshot
+
+image::images/01.png[title=Dosen.java]
+image::images/02.png[title=Rektor.java]
+image::images/03.png[title=Dekan.java]
+image::images/04.png[title=Kalab.java]
+image::images/05.png[title=Main.java]
+image::images/06.png[title=Main.java]
+
+<<<
+
+== Source Code
+
+[,java]
+----
+// Dosen.java
+
+include::src/Dosen.java[]
+----
+
+[source,java]
+----
+// Rektor.java
+
+include::src/Rektor.java[]
+----
+
+[source,java]
+----
+// Dekan.java
+
+include::src/Dekan.java[]
+----
+
+[source,java]
+----
+// Kalab.java
+
+include::src/Kalab.java[]
+----
+
+[source,java]
+----
+// Main.java
+
+include::src/Main.java[]
+----

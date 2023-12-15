@@ -1,0 +1,28 @@
+= Praktikum 3 - PBO
+:source-highlighter: rouge
+:author: Sri Aspari -- G.131.20.0045
+
+[.text-center,.big]
+*Sri Aspari -- G.131.20.0045*
+
+== Screenshot
+
+image::images/01.png["BelajarJava.java"]
+
+image::images/02.png["Laptop.java"]
+
+== Source Code
+
+[,java]
+----
+// Laptop.java
+
+include::src/Laptop.java[]
+----
+
+[source,java]
+----
+// BelajarJava.java
+
+include::src/BelajarJava.java[]
+----
